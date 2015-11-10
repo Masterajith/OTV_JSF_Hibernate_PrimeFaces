@@ -25,6 +25,7 @@ public class UserManagedBean implements Serializable{
 	private String name;
 	private String surname;
 	private String message;
+	public String kiran;
 	
 	public String getName() {
 		return name;
